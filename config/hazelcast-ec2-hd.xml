@@ -44,7 +44,7 @@
     </network>
 
     <native-memory enabled="true" allocator-type="POOLED">
-        <size value="1" unit="GIGABYTES"/>
+        <size value="6" unit="GIGABYTES"/>
     </native-memory>
 
 </hazelcast>
